@@ -147,7 +147,7 @@
             // 
             this.labelsalida.AutoSize = true;
             this.labelsalida.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
-            this.labelsalida.Location = new System.Drawing.Point(416, 3);
+            this.labelsalida.Location = new System.Drawing.Point(362, 9);
             this.labelsalida.Name = "labelsalida";
             this.labelsalida.Size = new System.Drawing.Size(84, 25);
             this.labelsalida.TabIndex = 13;
@@ -236,9 +236,9 @@
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(512, 20);
+            this.dataGridView1.Location = new System.Drawing.Point(473, 20);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(380, 296);
+            this.dataGridView1.Size = new System.Drawing.Size(419, 296);
             this.dataGridView1.TabIndex = 23;
             // 
             // buttoNGuardar
